@@ -14,5 +14,5 @@ image = Image.open('dog_suits.jpg')
 
 with st.sidebar:
     st.header("Development by Geovani Lima Cardoso")
-    st.image(image, width=200,)
+    #st.image(image, width=200,)
     st.subheader("linkedin:https://www.linkedin.com/in/geovani-lima-cardoso-760212158/")
